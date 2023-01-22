@@ -1,0 +1,9 @@
+day 22 
+
+started node js
+
+will take 2 days to get through the topics 
+
+studied some dbms indexing concept then acid properties how to implment it
+
+
