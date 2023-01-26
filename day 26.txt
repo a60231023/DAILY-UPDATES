@@ -1,0 +1,8 @@
+day 26
+
+1 lecture of system design 
+
+2 easy leetcode questions
+
+going to do a simple project of url shortner
+hope to complelte it by today
