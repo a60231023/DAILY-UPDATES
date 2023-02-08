@@ -3,3 +3,7 @@ day 8
 revision of dp- some questions
 
 javascript revision
+
+a podcast 
+
+system design revision
