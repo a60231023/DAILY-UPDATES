@@ -1,0 +1,5 @@
+day 2
+
+normal stuff
+
+assignemnt pracitise of nodejs
