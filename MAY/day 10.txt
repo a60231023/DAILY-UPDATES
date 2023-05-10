@@ -1,0 +1,4 @@
+day 10
+
+interview went ok
+leetcode 
