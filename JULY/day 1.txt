@@ -1,0 +1,4 @@
+day 3
+
+going through the codebase and making the demo project.
+we have to add one feature so clicking on it will display the data from backend and form to submit so that after submiting the data is displaed on the frontend.
