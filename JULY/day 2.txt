@@ -1,0 +1,6 @@
+day 2
+
+did most of the work on the codebase doing the dummy assignment.
+one error took almost all the time passing the controller in the dependedncy array
+some work is still left
+ will complete tomorrow
