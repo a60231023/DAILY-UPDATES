@@ -1,0 +1,4 @@
+day 3
+
+was allocated a ui enhancement task
+it was a normal thing of updating the button according to the user type. 
