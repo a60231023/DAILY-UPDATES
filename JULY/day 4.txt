@@ -1,0 +1,5 @@
+day 4
+
+continuing with the preious days task. The taks was completed. added the feature that clicking on the download option will download the documents and click on emial will open up the popup (removed the download option from it).
+
+I got another task of adding sorting the transaction according to the from date in the booking section . This was one of the sub task, which i completed. the next part was to add check in date filter feature which is left.
