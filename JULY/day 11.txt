@@ -1,0 +1,9 @@
+day 11
+
+task 5 & 6 was finished commited it.
+
+task 7 was with sahil bhaiya.
+working on the zohoCRM integration part.
+first, I changed the placeholder name for the different entity like tenants, contract, lead and property.what kind of data will be seen coming from backend so changed according to that.
+
+The next thing was to add errorlogs so on the intergaration dashboard, added a button on the zohocrm card, clicking on it will take to a route /errorlogs so made a html and controoler file for that. In ths html file the data will be coming from the different service provider according to the entity so I have to show that on that page in a table view. will continue on the same task.
