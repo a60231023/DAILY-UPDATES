@@ -1,0 +1,17 @@
+day 12
+
+continuing the task on zohoCRM with sahil bhaiya.
+shranya gava feedback so task was according to that only
+some of the task included
+alignment in integrate steps -- done
+when lead selecet as contract then disable lead in tenants -- done
+tab should open by default -- done
+add save and exit -- done
+changes are saved and submitted - popup -- done 
+
+edit part is left where click on the edit will edit in client id and secret-left
+map field if any one filed is selceted then only  next is enabled-left
+
+also did some ui changes in  errorlogs of zohoCRM
+
+will continue tomorrow
