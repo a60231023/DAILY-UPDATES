@@ -1,0 +1,4 @@
+day 27
+
+did work on data binding based on datatype dynamic. 
+did some work on errorlogs part. 
