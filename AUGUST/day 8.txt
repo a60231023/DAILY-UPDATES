@@ -1,0 +1,7 @@
+day 8
+
+did some work on the zohoBooks.
+started with the owner's dashboard .
+made the api for property data -- total no. of unit, total no of project vacant,filled etch . used pipeline and aggregation.
+need to study more in details .
+it is nice.
